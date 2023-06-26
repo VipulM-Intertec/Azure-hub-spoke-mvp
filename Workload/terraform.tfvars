@@ -1,0 +1,5 @@
+﻿resource_group_name = "az-conn-pr-eastus2-net-rg"
+virtual_network_name = "az-conn-pr-eastus2-vnet"
+remote_virtual_network_id = "/subscriptions/2c56bee4-3b87-4f12-bb43-0465106f00c4/resourceGroups/RG-PROD-HUB-UAEN01/providers/Microsoft.Network/virtualNetworks/VNET-HUB-UAEN01"
+location = "eastus2"
+next_hop_in_ip_address = "10.0.0.7"
